@@ -1,0 +1,92 @@
+body{
+    background-image: url(uclWallpaper.jpg);
+    background-repeat: no-repeat;
+}
+
+.body_main{
+    width: 100%;
+    top:100px;
+    position: absolute;
+}
+
+.container_row1{
+    width: 100%;
+    position: relative;
+    float: left;
+}
+
+.groupA{
+    margin-left: 80px;
+    float: left;
+    height: 200px;
+    width: 250px;
+}
+
+.groupB{
+    margin-left: 80px;
+    float: left;
+    height: 200px;
+    width: 250px;
+}
+
+.groupC{
+    margin-left: 80px;
+    float: left;
+    height: 200px;
+    width: 250px;
+}
+
+.groupD{
+    margin-left: 80px;
+    float: left;
+    height: 200px;
+    width: 250px;
+}
+
+.container_row2{
+    width: 100%;
+    position: relative;
+    float: left;
+}
+
+.groupE{
+    margin-left: 80px;
+    float: left;
+    height: 200px;
+    width: 250px;
+}
+
+.groupF{
+    margin-left: 80px;
+    float: left;
+    height: 200px;
+    width: 250px;
+}
+
+.groupG{
+    margin-left: 80px;
+    float: left;
+    height: 200px;
+    width: 250px;
+}
+
+.groupH{
+    margin-left: 80px;
+    float: left;
+    height: 200px;
+    width: 250px;
+}
+.group_title{
+    font-weight: bold;
+    color: yellow;
+    padding: 5px 0 10px 0;
+    text-align: center;
+}
+
+.teams{
+    color: orangered;
+    padding: 5px 5px 5px 5px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 14px;
+}
